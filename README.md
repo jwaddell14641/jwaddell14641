@@ -1,4 +1,5 @@
-<h1>Greetings and Salutations, My name is Jim Waddell <br>
+<h1>Greetings and Salutations,<br>
+  My name is Jim Waddell <br>
   an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
