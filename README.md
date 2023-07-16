@@ -1,5 +1,5 @@
 <h1>Greetings and Salutations,<br>
-  My name is <p style="color: orange">Jim Waddell</p> <br>
+  My name is<p style="color: orange">Jim Waddell</p><br>
   an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
