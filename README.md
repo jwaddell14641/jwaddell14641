@@ -1,6 +1,6 @@
 <h1>Greetings and Salutations, My name is<br>
   Jim Waddell <br>
-  an <a href="[https://www.linkedin.com/in/james-waddell-904016282](/)">IT Professional</a>☺</h1>
+  an <a href="https://www.linkedin.com/in/james-waddell-904016282/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
