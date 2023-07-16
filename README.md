@@ -1,8 +1,3 @@
-### Greetings and Salutations, My name is Jim Waddell 👋
-
-<!--
-**jwaddell14641/jwaddell14641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1>Greetings and Salutations, My name is Jim Waddell <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
